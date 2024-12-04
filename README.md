@@ -22,7 +22,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/gustavoarnoni/app-conversor-de-moedas.git
+    git clone https://github.com/gustavoarnoni/prova-prog-mobile.git
     ```
 
 2. **Navegue até o diretório do projeto**:
