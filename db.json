@@ -1,0 +1,25 @@
+{
+  "conversoes": [
+    {
+      "id": "3",
+      "moedaOrigem": "USD",
+      "moedaDestino": "AOA",
+      "valorOriginal": 100,
+      "valorConvertido": 91250
+    },
+    {
+      "id": "4",
+      "moedaOrigem": "GBP",
+      "moedaDestino": "AOA",
+      "valorOriginal": 100,
+      "valorConvertido": 36000
+    },
+    {
+      "id": "5",
+      "moedaOrigem": "USD",
+      "moedaDestino": "GBP",
+      "valorOriginal": 1000,
+      "valorConvertido": 805.56
+    }
+  ]
+}
